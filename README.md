@@ -1,6 +1,6 @@
 # Themballi Bhuvan
 
-B.Tech CSE (AI/ML) at VIT-AP University. I build ML and LLM systems that are
+B.Tech CSE (AI/ML) at Vellore Institute Of Technology. I build ML and LLM systems that are
 measured before they are trusted: a model proposes, code checks, and the
 evaluation says what the system cannot yet claim.
 
