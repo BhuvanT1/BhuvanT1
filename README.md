@@ -33,6 +33,14 @@ simulation. U-Net trained with synthetic occluders (test IoU 0.62, clDice
 0.84), MST-based topology healing, and a resilience metric that is bounded by
 construction. *PyTorch, NetworkX, FastAPI, React.* Capstone team lead.
 
+**[DepthWizards](https://github.com/BhuvanT1/depthwizard)**: building heights
+from one satellite image, measured from shadow geometry instead of guessed by a
+depth model. Depth Anything V2 was tried first and scored R² = −0.74 against
+shadow anchors, so it was demoted to ground-surface duty. Checked per building
+against USGS LiDAR (RMSE 3.88 m on Fort Myers), with an offline Docker build
+and a browser 3D viewer. *Python, PyTorch, FastAPI, Three.js.* Smart India
+Hackathon 2026 team project.
+
 ### Tools
 
 Python · TypeScript · SQL · PyTorch · scikit-learn · FastAPI · Next.js · React ·
