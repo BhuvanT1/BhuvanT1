@@ -41,8 +41,9 @@ depth model. Depth Anything V2 was tried first and scored R² = −0.74 against
 shadow anchors, so it was demoted to ground-surface duty. Checked per building
 against USGS LiDAR (RMSE 3.88 m on Fort Myers), with an offline Docker build
 and a browser 3D viewer. *Python, PyTorch, FastAPI, Three.js.* Smart India
-Hackathon 2026 team project: I worked on model training and research, and
-pitched it in the internal round that got the team selected.
+Hackathon 2026 team project. My contributions: model training, research and
+concept development, and the internal-round pitch that earned the team its
+selection.
 
 ### Tools
 
